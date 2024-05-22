@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+###oi
 **Luhanrres/Luhanrres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![](https://www.justviral.net/32-text-messages-that-are-honestly-funnier-than-anything-youve-ever-been-sent/)
